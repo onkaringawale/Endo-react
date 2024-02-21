@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "rule_id":1,
+            "title": "Endorsement plugin",
+            "page_name": "Technology libilities",
+            "page_url": "https://apexuat.allmerica.com/my.policy",
+            "rules": "Error and Oblications",
+            "blurb_content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" 
+        },
+        {
+            "rule_id":2,
+            "title": "Endorsement plugin",
+            "page_name": "Limit and Retaintion",
+            "page_url": "https://apexuat.allmerica.com/my.policy",
+            "rules": "Error only",
+            "blurb_content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" 
+        },
+        {
+            "rule_id":3,
+            "title": "Endorsement plugin",
+            "page_name": "Forms",
+            "page_url": "https://apexuat.allmerica.com/my.policy",
+            "rules": "Field to lead",
+            "blurb_content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" 
+        }
+    ]
+
+}
